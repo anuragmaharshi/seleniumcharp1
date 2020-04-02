@@ -1,0 +1,11 @@
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\bin\Debug\netcoreapp2.2\SeleniumApple.deps.json
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\bin\Debug\netcoreapp2.2\SeleniumApple.runtimeconfig.json
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\bin\Debug\netcoreapp2.2\SeleniumApple.runtimeconfig.dev.json
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\bin\Debug\netcoreapp2.2\SeleniumApple.dll
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\obj\Debug\netcoreapp2.2\SeleniumApple.csprojAssemblyReference.cache
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\obj\Debug\netcoreapp2.2\SeleniumApple.csproj.CoreCompileInputs.cache
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\obj\Debug\netcoreapp2.2\SeleniumApple.AssemblyInfoInputs.cache
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\obj\Debug\netcoreapp2.2\SeleniumApple.AssemblyInfo.cs
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\bin\Debug\netcoreapp2.2\SeleniumApple.pdb
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\obj\Debug\netcoreapp2.2\SeleniumApple.dll
+C:\Users\amaharsh\source\repos\SeleniumApple\SeleniumApple\obj\Debug\netcoreapp2.2\SeleniumApple.pdb

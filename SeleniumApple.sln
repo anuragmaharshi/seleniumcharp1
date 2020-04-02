@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumApple", "SeleniumApple\SeleniumApple.csproj", "{48B5C70C-2131-4DFA-B526-5356C7DBD35F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B5C70C-2131-4DFA-B526-5356C7DBD35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B5C70C-2131-4DFA-B526-5356C7DBD35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B5C70C-2131-4DFA-B526-5356C7DBD35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B5C70C-2131-4DFA-B526-5356C7DBD35F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCB8E95-11CE-4BD7-9328-39A5AE0FB2FC}
+	EndGlobalSection
+EndGlobal
